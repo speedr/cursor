@@ -24,7 +24,7 @@ cursor('grabbing'); // Use 'grabbing' or '-webkit-grabbing' or '-moz-grabbing'
 
 Set cursor to `default`.
 
-#### cursor(typr)
+#### cursor(type)
 
 Set cursor to the given `type`.
 
